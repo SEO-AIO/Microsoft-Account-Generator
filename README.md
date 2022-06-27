@@ -1,4 +1,4 @@
-# microsoft-account-gen
+# Microsoft Account Generator
 Simple Selenium script that generates a new outlook/microsoft account with random credentials.
 This script was made mainly to create accounts to use in videogames and nowhere else.
 Make sure to use a VPN or a Proxy before generating the account. (you can also use your phone hotspot, you just need to have a different IP every time you generate an account)
