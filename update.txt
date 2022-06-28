@@ -1,0 +1,1 @@
+Im now developing PotatoGen v2 and i ran into an error. It seems like Chrome has been updated to version 103 and some wierd stuff is happening between the driver and the normal Chrome Browser so PotatoGen is probably not going to work for a bit. I will release PotatoGen v2 as soon as this problem is resolved.
