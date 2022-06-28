@@ -5,7 +5,7 @@ Make sure to use a VPN or a Proxy before generating the account. (you can genera
 
 The ONLY thing that's manual is the bot verification, so when it appears click next and complete the verification, after that don't touch anything else.
 
-Once you see this message "Successfully generated a new Microsoft account!" you can close the Chrome driver and PotatoGen. (The account info will be stored in "account.txt")
+Once you see this message "Successfully generated a new Microsoft account!" you can close the Chrome driver and PotatoGen. (The account info will be stored in "accounts.txt")
 
 Do NOT save or click anything on the Chrome driver appart from the bot verification.
 
