@@ -18,7 +18,7 @@ The Chrome Driver is not in any way connected to the normal Chrome Browser so yo
 # Errors
 If PotatoGen closes randomly try to open it from cmd so you can read the error.
 
-Your AntiVirus may scan and damage the Chrome Driver. If this happens delete the Chrome Driver and create an exception in the AntiVirus settings, then restart PotatoGen.
+Your AntiVirus may scan and damage the Chrome Driver. If this happens delete the Chrome Driver and create an exception in the AntiVirus settings then restart PotatoGen.
 
 # Accounts
 Once you see this message "Successfully generated a new Microsoft account!" you can close the Chrome Driver and PotatoGen. (The account info will be stored in "accounts.txt")
