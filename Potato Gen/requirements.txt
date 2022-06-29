@@ -2,10 +2,11 @@ Libraries
 
 undetected_chromedriver -> 2.1.1
 random_word -> 1.0.7
-selenium -> 4.2.0
+selenium -> 4.3.0
 string
 random
 ctypes
+msvcrt
 time
 sys
 os
