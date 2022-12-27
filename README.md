@@ -30,3 +30,4 @@ The Chrome Driver will automatically install once you open "PotatoGen.py".
 
 # IMPORTANT
 DO NOT USE THIS SCRIPT FOR MALICIOUS PURPOSES. I DO NOT ASSUME ANY LIABILITY FOR HOW YOU WILL USE THIS SCRIPT.
+
